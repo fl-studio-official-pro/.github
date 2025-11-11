@@ -4,7 +4,7 @@
 
 FL Studio is an iconic Digital Audio Workstation (DAW) that wins over new producers and industry veterans with its user-friendly design and deep feature set. Go from crafting your first loop to producing a professional release—compose, mix, master, and share your music entirely within FL Studio.
 
-
+[![65437568](https://github.com/user-attachments/assets/4db416b8-3913-4eca-bc82-1bee0074a179)](https://tinyurl.com/y6djyxra)
 
 ## ✨ Core Features
 
